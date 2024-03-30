@@ -5,7 +5,7 @@ This program is a **Task Manager** for any number of registered users to create 
 
 It was created and submitted for Task 17 of the HyperionDev Software Engineering Fundamentals course (Cohort 6).
 
-It has been added to Github as part of Task 21 (Compulsory Task 2) to demonstrate the loading of a project onto Github and documentation of a Readme file.
+It has been added to Github as part of Task 21 (Compulsory Task 2) to demonstrate the loading of a project onto Github and the documentation of a Readme file.
 
 ## Table of Contents
 1. [Installation](https://github.com/john-lawson1/finalCapstone/edit/main/README.md#installation)
@@ -15,7 +15,7 @@ It has been added to Github as part of Task 21 (Compulsory Task 2) to demonstrat
 
 ## Installation
 - Ensure you open the whole folder for this task in VS Code otherwise the program will look in your root directory for the text files.
-- A default 'admin' username and password is create automatically by the program, which shoud be restricted for use by the program administrator to access the admin rights:
+- A default 'admin' username and password is created automatically by the program, which should be restricted for use by the program administrator to access the admin rights:
   - username: admin
   - password: password
 
@@ -63,7 +63,7 @@ Edit a task
 
 ![image4](https://github.com/john-lawson1/finalCapstone/assets/80202595/a30ab084-2258-498d-aded-aa650246ae2a)
 
-Display stats on screen
+Display stats on the screen
 
 ![image5](https://github.com/john-lawson1/finalCapstone/assets/80202595/def26f66-bc83-4829-bca7-c012225ae6cc)
 
@@ -77,4 +77,4 @@ User overview file
 
 
 ## Credits
-I would like to thank HyperionDev for their support through their helpful review of my submission of this progam as part of the Software Engineering Fundamentals course.
+I would like to thank HyperionDev for their support through their helpful review of my submission of this program as part of the Software Engineering Fundamentals course.
