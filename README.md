@@ -8,10 +8,10 @@ It was created and submitted for Task 17 of the HyperionDev Software Engineering
 It has been added to Github as part of Task 21 (Compulsory Task 2) to demonstrate the loading of a project onto Github and the documentation of a Readme file.
 
 ## Table of Contents
-1. [Installation](https://github.com/john-lawson1/finalCapstone/edit/main/README.md#installation)
-3. [Usage](https://github.com/john-lawson1/finalCapstone/edit/main/README.md#usage)
-4. [Screenshots](https://github.com/john-lawson1/finalCapstone/edit/main/README.md#screenshots)
-5. [Credits](https://github.com/john-lawson1/finalCapstone/edit/main/README.md#credits)
+1. [Installation](#installation)
+3. [Usage](#usage)
+4. [Screenshots](#screenshots)
+5. [Credits](#credits)
 
 ## Installation
 - Ensure you open the whole folder for this task in VS Code otherwise the program will look in your root directory for the text files.
